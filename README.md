@@ -1,7 +1,6 @@
 # Snakes and Ladders game(Low Level Design)
-#Rules of the game:
+Rules of the game:
 The board will have 100 cells numbered from 1 to 100.
-
 The game will have a six sided dice numbered from 1 to 6 and will always give a random number on rolling it.
 
 Each player has a piece which is initially kept outside the board (i.e., at position 0).
